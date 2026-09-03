@@ -1,0 +1,16 @@
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+
+# MCP server
+mcp-server/node_modules/
+mcp-server/dist/
+mcp-server/.env
+mcp-server/data/
+*.vault.json
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
